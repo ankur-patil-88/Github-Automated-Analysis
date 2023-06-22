@@ -1,5 +1,5 @@
 .env
-github_repo_analysis_sample1.py
-github_repo_analysis_sample2.py
-sample1.py
-sample2.py
+./github_repo_analysis_sample1.py
+./github_repo_analysis_sample2.py
+./sample1.py
+./sample2.py
