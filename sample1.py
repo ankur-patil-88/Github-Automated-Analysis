@@ -31,3 +31,4 @@ for repo in user.get_repos():
     issues = repo.get_issues(state='all')
     for issue in issues:
         print(issue.title)
+
